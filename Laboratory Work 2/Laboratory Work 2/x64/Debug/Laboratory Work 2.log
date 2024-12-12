@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\legod\OneDrive\Рабочий стол\Laboratory Work 2\Laboratory Work 2\TDynamicVector.cpp(146,43): warning C4297: TDynamicVector<int>::operator *: ожидается, что функция не будет выдавать исключения, но она это делает
-  test_Vector&Matrix.h
-C:\Users\legod\OneDrive\Рабочий стол\Laboratory Work 2\Laboratory Work 2\TDynamicVector.cpp(146,43): warning C4297: TDynamicVector<int>::operator *: ожидается, что функция не будет выдавать исключения, но она это делает
-  Создание кода...
-  Laboratory Work 2.vcxproj -> C:\Users\legod\OneDrive\Рабочий стол\Laboratory Work 2\x64\Debug\Laboratory Work 2.exe
