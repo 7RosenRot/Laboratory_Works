@@ -1,9 +1,0 @@
-﻿  LinkedList.cpp
-  main.cpp
-  Создание кода...
-main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl LinkedList<int>::LinkedList<int>(void)" (??0?$LinkedList@H@@QEAA@XZ) в функции main.
-main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl LinkedList<int>::~LinkedList<int>(void)" (??1?$LinkedList@H@@QEAA@XZ) в функции main.
-main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl LinkedList<int>::push_back(int)" (?push_back@?$LinkedList@H@@QEAAXH@Z) в функции main.
-main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl LinkedList<int>::delete_list(void)" (?delete_list@?$LinkedList@H@@QEAAXXZ) в функции main.
-main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: int & __cdecl LinkedList<int>::operator[](int)" (??A?$LinkedList@H@@QEAAAEAHH@Z) в функции main.
-D:\Microsoft Visual Studio\Visual Studio 2022\Others\1.LinkedList\1.LinkedList\x64\Debug\1.LinkedList.exe : fatal error LNK1120: неразрешенных внешних элементов: 5
