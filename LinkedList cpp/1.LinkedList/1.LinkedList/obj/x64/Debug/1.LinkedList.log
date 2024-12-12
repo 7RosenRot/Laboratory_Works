@@ -1,0 +1,5 @@
+﻿  LinkedList.cpp
+  main.cpp
+  Создание кода...
+C:\Microsoft Visual Studio\Visual Studio 2022\Other\1.LinkedList\1.LinkedList\1.LinkedList\LinkedList.cpp(46): warning C4715: LinkedList<char>::operator[]: значение возвращается не при всех путях выполнения
+  1.LinkedList.vcxproj -> C:\Microsoft Visual Studio\Visual Studio 2022\Other\1.LinkedList\1.LinkedList\1.LinkedList\bin\x64\Debug\1.LinkedList.exe
